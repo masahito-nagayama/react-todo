@@ -13,7 +13,7 @@ SAMPLE_TODOS = [
     name: 'graduating from college'
   },
   {
-    name: 'publishing a book',
+    name: 'がんばれ',
   }
 ]
 
