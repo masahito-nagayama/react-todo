@@ -42,4 +42,9 @@ class Api::V1::TodosController < ApplicationController
       render json: { error: "Faild to destroy" }, status: 422
     end
   end
+
+  private
+  def todo_params
+    params.require(:todo).permit(:name, :is_completed)
+  end
 end
