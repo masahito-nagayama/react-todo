@@ -53,7 +53,7 @@ function App() {
         <NavItems>
           <NavItem>
             <Link to="/todos">
-              Todos
+              TODO
             </Link>
           </NavItem>
           <NavItem>
