@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # react-todo
+このYoutube動画で学習
+https://youtu.be/vppVZsR6uoo
